@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
 * Input Class which enables users to input data into the program.
 *
-* @author Ravish Goyal, Mark Creado used by David Bryant
+* @author David Bryant
 * @version 02 February 2022
 */
 public class Input
