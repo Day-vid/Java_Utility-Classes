@@ -1,7 +1,7 @@
 /**
 * Validation Class which enables user input validation for the program.
 *
-* @author Ravish Gould and used by David Bryant
+* @author David Bryant
 * @version 04 February 2022
 */
 public class Validation
